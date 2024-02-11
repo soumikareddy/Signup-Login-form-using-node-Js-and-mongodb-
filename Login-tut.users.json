@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "65c8bed73c29966bc5b5ecb1"
+  },
+  "name": "soumika",
+  "password": "soumika reddy 213",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c8bfcab7a240336cca1e3e"
+  },
+  "name": "soumika",
+  "password": "soumika reddy 213",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c8c3ab2ba5ba666c809a7f"
+  },
+  "name": "soumi",
+  "password": "$2b$10$Nif4d.SFrOpnNmaxctBZleAVokwWbT6lRX/WWFrKgRv7M5OHSkgUO",
+  "__v": 0
+}]
